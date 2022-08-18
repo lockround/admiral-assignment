@@ -1,0 +1,23 @@
+[
+    {
+        "id":"gjhghjjghj",
+        "name":"Apple Airpods Pro",
+        "description":"apple airpods",
+        "price":113.0,
+        "ship":8
+    },
+    {
+        "id":"fghghlkhh",
+        "name":"iPhone 13",
+        "description":"apple iphone",
+        "price":299.0,
+        "ship":7
+    },
+    {
+        "id":"jfthdrggc",
+        "name":"iPhone 12",
+        "description":"apple iphone",
+        "price":199.0,
+        "ship":9
+    }
+]
